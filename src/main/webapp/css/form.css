@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.md-form{
+margin-top: 8px !important;
+}
+.has-error label{
+  color: #ff3547 !important;
+}
+.has-error input.form-control{
+  border-color: #ff3547 !important;
+}
+.help-block{
+margin-bottom:0;
+}
+label.active{
+left:5px;
+}
